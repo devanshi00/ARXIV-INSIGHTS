@@ -178,7 +178,7 @@ def parse_paper_with_science_parse(pdf_file_path, output_folder):
     subprocess.run(['java', '-Xmx6g', '-jar', jar_file_path, pdf_file_path, '-o', output_folder], check=True)
 
 def url_page():
-    set_bg_hack('/gjhekhebfebfkefej (5).png')
+    set_bg_hack('./background.png')
 
 # Display the "Back to Home" button
     if st.button("Back to Home"):
