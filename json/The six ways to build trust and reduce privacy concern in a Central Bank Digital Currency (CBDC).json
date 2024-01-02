@@ -1,0 +1,470 @@
+{
+  "name" : "The six ways to build trust and reduce privacy concern in a Central Bank Digital Currency (CBDC).pdf",
+  "metadata" : {
+    "source" : "META",
+    "title" : "The Six Ways to Build Trust and Reduce Privacy Concern in a Central Bank Digital Currency (CBDC)",
+    "authors" : [ "Alex Zarifis", "Xusen Cheng" ],
+    "emails" : [ "zarifis.a@unic.ac.cy", "xusen.cheng@ruc.edu.cn" ],
+    "sections" : [ {
+      "heading" : null,
+      "text" : "115\n6"
+    }, {
+      "heading" : "The Six Ways to Build Trust and Reduce Privacy Concern in a Central Bank Digital Currency (CBDC)",
+      "text" : "Alex Zarifis and Xusen Cheng"
+    }, {
+      "heading" : "6.1 Introduction",
+      "text" : "Central Bank Digital Currencies (CBDCs) have been implemented by only a handful of countries, but they are being explored by many more (Kosse & Mattei, 2022). CBDCs are digital currencies issued and backed by a central bank. Consumer trust can encourage or discoura ge the adoption of this currency, which is also a payment system and a technology. This research attempts to understand consumer trust in CBDCs so that the development and adoption stages are more effective and satisfying for all the stakeholders.\nA. Zarifis (*) School of Business, University of Nicosia, Nicosia, Cyprus\nCambridge Centre for Alternative Finance, University of Cambridge, Cambridge, UK e-mail: zarifis.a@unic.ac.cy\nX. Cheng School of Information, Renmin University of China, Beijing, China e-mail: xusen.cheng@ruc.edu.cn\n© The Author(s) 2024 A. Zarifis et al. (eds.), Business Digital Transformation, https://doi.org/10.1007/978-3-031-33665-2_6\n116\nThe digital transformation sweeping through many sectors of the economy and facets of people’s lives is also disrupting money and payment systems. Governments want a currency and payment solution that is more efficient and intelligent, and consumers want to make transactions faster and cheaper (Abramova et al., 2021). Consumers have shown an interest in the functionality provided by cryptocurrencies, but the recurring problems with cryptoassets, such as the FTX collapse, suggest that a more centralized and regulated cryptocurrency solution should be provided by governments to offer similar functionality with less risk. If this is not achieved however, history shows that when consumers do not want a currency or payment system, they chose alternatives such as other countries’ currencies, cryptoassets, Decentralized Finance (DeFi), or the grey economy (Grassi et  al., 2022). Therefore, as with many solutions involving technology, it is more effective to design something appealing to the consumer than push a flawed solution onto them, either with promotions, regulations, or laws. It may seem like a simple choice to implement CBDCs, but however, it is far from simple. The cautious, slow progress of some central banks through many pilot implementations is probably warranted (Xu, 2022). Unlike some technologies like the metaverse that can be repeatedly pitched to the consumer year after year until they are successfully adopted, a failed implementation of a CBDC would have far-reaching consequences. This cautious approach, however, must not take longer than necessary, and the optimum solutions for CBDCs, including trust, must be reached. Recent events showed that governments around the world want to make a variety of interventions as fast as possible, such as giving citizens of a whole country some additional money to deal with high inflation (Walker & Sexton, 2022). Many consumers lives seem to be going from one disruption to the other recently (Gielens, 2022), with the word ‘permacrisis’ being selected as the word of the year by Collins Dictionary (Shariatmadari, 2022). The uncertainty many consumers face, and will probably face for some time to come, means having their trust should not be taken as a given. Research into CBDCs recognizes that more needs to be done to understand this phenomenon and, in particular, the role the technology plays from the consumer’s perspective (Bhaskar et al., 2022). Consumer trust is an important factor in technology adoption (Lankton et al., 2015). Therefore, the two related research questions are:\nA. Zarifis and X. Cheng\n117\nWhat are the methods to build consumer trust in a CBDC? Does trust in a CBDC encourage its adoption by a consumer?\nThere are a variety of CBDC solutions. The primary distinctions are between wholesale and retail CBDCs, and one or two-tier CBDCs (Auer & Böhme, 2020). For this research we are considering the one-tier CBDC solution. This is for two reasons. Firstly because of its popularity within early movers like the Chinese CBDC, formally known as the electronic Chinese Yuan or the e-CNY (Xu, 2022). The second reason is because it is a simpler implementation, with fewer factors influencing the consumer’s perspective, and therefore easier to create a representative model and validate it.\nThis research found support for a model with six factors influencing trust in a CBDC and found that trust in the CBDC did indeed encourage its adoption. The six factors that influence trust in a CBDC identified in this research are the following: (1) Trust in the government and the central bank issuing a CBDC, (2) expressed guarantees for the user of a CBDC, (3) positive reputation of existing CBDCs implemented in other countries, (4) automation and reduced human involvement achieved by a CBDC technology, (5) trust-building functionality of a CBDC, and (6) privacy features of the CBDC wallet app and back-end processes such as anonymity.\nThe following literature review of CBDCs and trust gives a sufficient foundation for the research model, that is presented in the third section. This is followed by the methodology section, where the quantitative approach using Structural Equation Modelling (SEM) is outlined. After that comes the analysis and results, the discussion of the findings, and finally the conclusion, which includes suggestions for future research."
+    }, {
+      "heading" : "6.2 Theoretical Foundation",
+      "text" : "This review first explores the various models and implementations of CBDCs before moving on to trust in the related areas of currencies, payments, and technology. While the literature of trust in CBDCs does not\n6 The Six Ways to Build Trust and Reduce Privacy Concern…\n118\nsufficiently cover this topic, the extensive literature of trust in the constituent parts of a CBDC (currency, payment system, and technology) gives this research a sufficient theoretical foundation to build on."
+    }, {
+      "heading" : "Central Bank Digital Currencies (CBDCs)",
+      "text" : "CBDCs are different to other cryptocurrencies like Bitcoin as they are issued by a country’s central bank and cannot be mined. Therefore, they are very centralized and not decentralized at all. The use of cash is declining over time in most countries, and the idea to offer a purely digital currency and payment system is not new (Tee & Ong, 2016). As is often the case with new technologies, the timing can make the difference between successful adoption by consumers or failure. The confluence of cryptoasset popularity, DeFi popularity, the digital transformation in many sectors of the economy and several other factors have convinced many countries that the right time is now (Luu et  al., 2022; Lee et al., 2021).\nThere are several variations of CBDCs. The most important variations are between (a) retail and wholesale and (b) one and two tiers (Auer & Böhme, 2020): (a) A CBDC can either be retail or wholesale. A retail CBDC is used by individuals for their savings and to make purchases. A wholesale CBDC is primarily used by financial institutions for their reserves and large payments. (b) The operations of a CBDC can either be over one or two tiers. If it operates over one tier, a central bank provides an electronic wallet to the individual to use it. The Chinese e-CNY operates in this way (Xu, 2022). A CBDC that operates with two tiers essentially replicates the current design where a currency is issued by a central bank but private banks hold individuals’ savings and process their payments. It is possible to have both systems in parallel, a hybrid CBDC, so the user has a choice.\nCBDC advantages: There are several advantages to CBDCs. Firstly, as it is entirely digital it is more efficient than the current solution of paper money, both within and between borders (Bossone & Ardic, 2021). In a one-tier system there is also disintermediation which further increases efficiency (Ahn & Chen, 2022). Secondly, transactions can be tracked\nA. Zarifis and X. Cheng\n119\nwhich should reduce crime, particularly money laundering and fraud. Thirdly, by offering a CBDC a government reduces the appeal of risky cryptocurrencies and stablecoins. From the user’s perspective, opening an account is easier as their government already has the necessary personal details. It should also make having a bank account easier for citizens that live in remote areas as they do not need to travel to a physical bank.\nCBDC risks: CBDCs may introduce some risks that must be analysed and understood before an implementation. The three main ones are as follows: (a) Inevitably, a greater reliance on technology makes cybersecurity risks more dangerous. The vulnerabilities can be with the infrastructure providers, the operators of the CBDC and the users (Banxico, 2021). (b) A problematic implementation may lead to low adoption or even reduce trust and confidence in CBDCs. (c) The ease of use of CBDCs may lead to competition between several CBDCs. If a user can easily access several CBDCs they will compare them based on how well they keep their value, as with current currencies. However, unlike current currencies the functionality of the digital wallet may also play a role and become a relative advantage."
+    }, {
+      "heading" : "Trust in Currencies, Payments, and Technology",
+      "text" : "Despite trust typically being based on principles from psychology and sociology that remain relatively consistent, it often has significant differences in a new context where the relationship between the trustor and the trustee is different. For the digital Euro, early signs suggest that image and credibility influence trust (Tronnier et al., 2022). The trustor, in this context a citizen, must trust a government to back the monetary value of the cash they have. In many countries this used to be backed by gold, meaning a citizen in theory could receive gold to the monetary value of the cash they had. This then evolved, leaving gold out of the equation, but the citizen could still hold cash in the form of physical notes if they wanted to. CBDCs once again change this relationship leaving any physical proof out of the equation. This is a fundamental change, and hence ‘digital’ is in the name of this new form of currency and payment system. While in many countries cash has been on the way out for some time\n6 The Six Ways to Build Trust and Reduce Privacy Concern…\n120\n(Tee & Ong, 2016), its role in the relationship with the user, and its role in building trust with the user, should not be underestimated. The new relationship between the trustor (citizen) and trustee (government and central bank) replaces previous physical assurances, with technology. Therefore, trust in the technology is important. Previous research has shown that trust in technology is different to trust in people (Lankton et al., 2015).\nIn addition to technology, in the relationship between the trustor (citizen) and trustee (government and central bank), there are still people that play a role in the process on the side of the trustee. However, there is a limited direct interaction between the citizen and the people that make up the government and the central bank, and a limited or no personal relationship. Therefore, in this relationship, as with other similar ones, it is better to look at trust in the institutions (Pavlou & Gefen, 2004). The literature therefore suggests that the citizen’s trust in a CBDC may be based firstly on trust in institutions and secondly trust in technology. Institutional trust is defined as the consumer’s perception that third-party organizations (not the one purchasing or making a sale) can effectively support the exchange (Pavlou & Gefen, 2004).\nThe term institutional trust has been used since the 1980s to describe the ability of institutions to build trust (Zucker, 1986). For CBDCs institutional trust will depend on the specific risks people and societies face, and which institutions are in an ideal position to build trust back up to the necessary level. These institutions are not just a third party that the consumer is familiar with. There is ‘trust transference’ between the third party and the trustee. This trust transference is covered by literature on network trust (McEvily et al., 2003), but it is not the only way institutions build trust. The primary way an organization builds institutional trust is by fulfilling a related role to the transaction effectively.\nFor example, for someone purchasing insurance the institutions that regulate the internet and insurance, are in a position to build trust.\nTrust in technology plays a role in the consumer trusting a CBDC because the reduced contact with humans, is replaced with an increased interaction with technology. For example, if a user relies on a CBDC for their payments and they cannot access their electronic wallet due to problems with the Internet connection, or the shop they are trying to pay does\nA. Zarifis and X. Cheng\n121\nnot receive the payment, their trust will be reduced. Trust in a technology can be based on different criteria to trust in a person (Lankton et  al., 2015). Trust in a system can be influenced by functionality, helpfulness, and reliability (Lankton et al., 2015)."
+    }, {
+      "heading" : "6.3 Research Model",
+      "text" : "Trust has been separated into several different categories by previous research. Two of the most popular distinctions are (1) into people-centric trust and technology-centric trust (Lankton et al., 2015) and (2) institutional trust and technology-focused trust (Pavlou & Gefen, 2004). In a similar way, this research puts forward a model that separates trust in CBDCs into (1) trust in institutions implementing CBDCs and (2) trust in a specific CBDC technology. The four hypotheses related to the influence of trust associated to the institutions involved in CBDCs are presented first, followed by three hypotheses related to the technology used by CBDCs. The eighth and final hypothesis tests whether trust positively influences the intention to use a CBDC."
+    }, {
+      "heading" : "Trust Built by Institutions Implementing CBDCs",
+      "text" : "If institutions directly involved in the implementation of a CBDC such as the government and the central bank are trusted, this will increase trust in the CBDC. The exact role of a government and a central bank may not be the same in all cases, but in the cases implemented so far and the main ones proposed, both have a role. For example, an EU and UK implementation involves different responsibilities for the respective governments and central banks, but in both cases both institutions are involved (Morgan, 2022; Mooij, 2022). Typically, a government will pass certain related laws, and the central bank will implement and run the operations of a CBDC.  Some countries’ central banks, or equivalent, have more independence from the government, but in most cases, there is close cooperation. For a historical decision such as implementing a CBDC there is no evidence to this day of governments not working closely with their central banks. Therefore, the first hypothesis is:\n6 The Six Ways to Build Trust and Reduce Privacy Concern…\n122\nH1: Trust in the government and the central bank issuing a CBDC will increase trust in the CBDC.\nA guarantee is a formal assurance in writing that something will happen. Guarantees have a history of being used to reassure users of technology or consumers of financial services, and they are often beneficial (Martínez-López et al., 2020). Specific guarantees offered to the user of a CBDC will increase trust in the CBDC. The guarantees can be on any aspect of the CBDC including the currency retaining its value or it being able to complete all the forms of payment necessary. Therefore, the second hypothesis is:\nH2: Expressed guarantees for the user of a CBDC will increase trust in the CBDC.\nPersonal information privacy concern is caused when consumers must share sensitive personal information to receive a product or service (Yun et al., 2019). New privacy concerns can emerge each additional time this personal information must be shared with a new organization (Dinev et al., 2013). Evidence of this is the extent to which consumers will provide false personal information to avoid revealing their genuine personal information (Miltgen & Jeff Smith, 2019). As the government already holds personal information of the consumer, this might increase trust. Therefore, the third hypothesis is:\nH3: Personal data handled when operating a CBDC by a government, that already holds personal information of the user, will increase trust in the CBDC.\nWhile the trust in the organizations implementing the technology is clearly important, it is not sufficient on its own. This technology, as most technologies, has been implemented for some time before the consumer is considering adopting it. During this time a reputation has been built. Reputation has been proven to influence trust in a variety of contexts involving technology (Einwiller, 2003), including trust in financial services (Dupont & Karpoff, 2020). Therefore, it is hypothesized that:\nA. Zarifis and X. Cheng\n123\nH4: The positive reputation of existing CBDCs implemented in other countries will increase trust in the CBDC."
+    }, {
+      "heading" : "Trust Built by the Specific CBDC",
+      "text" : "Technology Implemented\nThe process of using a CBDC is digital and over the Internet, so the technology, including blockchain, handles the necessary processes (Bossone & Ardic, 2021). This automation reduces human involvement and corruption (Ahn & Chen, 2022). As human involvement is reduced, so is the need to trust humans. Therefore, it is hypothesized that:\nH5: The automation and reduced human involvement achieved by a CBDC technology increases trust.\nA service can include trust-building functionality such as third-party certification, and policies that protect the consumer (Chang et al., 2013). For example, in the European Union like many other parts of the world, there are policies protecting the consumer’s bank savings, up to a certain point (Chiaramonte et al., 2020). Similarly, the technology of a CBDC and the policies around it can have specific trust-building features. These can include a well-designed interphase and two-factor authentication to give the user a strong sense that they are in control of their money (Reese et al., 2019). Therefore, it is hypothesized that:\nH6: The trust-building functionality of a CBDC wallet app will increase trust in the CBDC.\nDespite the large volume of data provided by a typical consumer so that they can receive the products and services they want, this does not happen without some privacy concerns (Gu et al., 2022). CBDCs have already generated some privacy concerns (Pocher & Veneris, 2022) despite not being widely available yet for most people. Additional privacy features of the CBDC wallet app and back-end processes, such as anonymity, can reduce personal information privacy concern (Dinev et al., 2013). Therefore, it is hypothesized that:\n6 The Six Ways to Build Trust and Reduce Privacy Concern…\n124\nH7: Privacy features of the CBDC wallet app and back-end processes such as anonymity will increase trust in the CBDC.\nThe previous seven hypotheses identified the institutional and technological ways trust is built. The eighth and final hypothesis attempts to verify that consumer trust in a CBDC does, indeed, encourage the use of CBDCs. The originality and contribution of this research lies primarily in the previous seven hypotheses, but the final hypothesis is necessary to confirm that trust plays a role in this context as it does in many other similar contexts (Lankton et al., 2015; McKnight & Chervany, 2002). Therefore, the final hypothesis is:\nH8: Trust in a CBDC will increase the willingness to use a CBDC.\nThe initial research model on how trust in a CBDC is built in seven ways, and how trust in CBDCs increased the willingness to use them, is illustrated in Fig. 6.1."
+    }, {
+      "heading" : "6.4 Method",
+      "text" : ""
+    }, {
+      "heading" : "Data Collection",
+      "text" : "The data for the quantitative analysis was collected by online survey hosted on the SoSci Survey tool (www.soscisurvey.de). The survey items are based on measures validated in similar contexts and use a seven-point Likert-type scale. The classic Likert-type scale started from 1, strongly disagree, up to 7, strongly agree. Each latent variable was measured by three measured variables, as illustrated in Table  6.1. The survey was designed to take less than ten minutes to complete. These ten minutes included the time needed to read the instructions, complete the demographic questions and those related to the model.\nThe minimum sample size necessary was calculated based on the guidelines for SmartPLS (Hair et  al., 2021). Based on the maximum number of arrows pointing to a latent variable being seven, the minimum sample size is 228, for a statistical power of 80% (Hair et al., 2021). The\nA. Zarifis and X. Cheng\n125\nminimum number was exceeded as after 429 were collected, 388 were considered to be valid. Using a higher number than the minimum increases the precision of the estimations (Hair et al., 2021). Of the 429 surveys collected, 41 raised a red flag and did not pass the survey quality checks. Firstly, there was a question at the start asking the participant to select a definition of what a CBDC is, to test if they had sufficient knowledge to give useful answers. Additionally, there was a question that was asked twice with a different wording to check if conflicting answers were given. Surveys were also rejected for other typical reasons such as being incomplete, completed too fast known as ‘speeder flag’, and for the same response being selected for all the questions known as ‘straight-lining flag’. The demographic analysis of the 388 valid surveys completed, presented in Table 6.2, show a good balance between genders, age groups, education levels, and incomes.\n6 The Six Ways to Build Trust and Reduce Privacy Concern…\n126"
+    }, {
+      "heading" : "Data Analysis Technique",
+      "text" : "The quantitative method evaluated the model developed using Structural Equation Modelling (SEM) with the variance-based Partial Least Squares (PLS) approach. This is an Ordinary Least Squares regression method. An initial model was tested and improved so that a model with strong empirical and theoretical support is generated. The SmartPLS 4.0 software was used to explore and evaluate the model. The PLS algorithm was set to run for 3000 iterations. Because the model has a degree of complexity with three tiers of latent variables, the analysis first evaluated the measurement model, followed by the evaluation of the structural model. The reflective measurement model evaluates the relationship between the measured variables and their respective latent variables, while the structural model evaluates the relationship between the latent variables themselves (Hair et  al., 2021). It is necessary to verify that the measured variables do indeed represent the latent variables, before moving on to exploring the relationship between the latent variables.\nA. Zarifis and X. Cheng\n127"
+    }, {
+      "heading" : "6.5 Analysis and Results",
+      "text" : ""
+    }, {
+      "heading" : "Measurement Model",
+      "text" : "Before the relationships between the latent variables can be tested, the relationship between each latent variable and its respective measured variables must be tested to see if it meets the necessary criteria (Hair et al., 2021). The first thing to be evaluated are the measured variables’ factor loadings. These are above the minimum required level of 0.7 with the lowest being 0.864. The Average Variance Expected (AVE) should be above 0.5, and this requirement is met by all of them as the lowest is 0.807. Therefore, both the factor loadings and AVE meet the requirements and show a sufficient level of convergent validity. The Composite Reliability (CR) is above 0.7 for all the variables with the lowest value being 0.883. This indicates that there is adequate internal consistency and individual construct reliability, between the latent variable and the measured variables. The discriminant validity, presented in Table  6.3 evaluated using the Fornell-Larcker criterion, shows that the measured variables have a stronger relationship with their  own latent variable\n6 The Six Ways to Build Trust and Reduce Privacy Concern…\n128 Ta b le 6 .3 R es u lt s o f th e m ea su re m en t m o d el a n al ys is V ar ia b le s Lo ad in g s C R A V E D is cr im in an t va lid it y (F o rn el lLa rc ke r cr it er io n ) TG EG PG R TA A F PF TC U C TG TG 1 0. 94 9 0. 94 8 0. 90 5 0. 95 1 TG 2 0. 95 3 TG 3 0. 95 2 EG EG 1 0. 89 9 0. 91 3 0. 85 1 0. 89 3 0. 92 3 EG 2 0. 95 4 EG 3 0. 91 4 PG PG 1 0. 92 0 0. 88 7 0. 81 4 0. 90 0 0. 84 8 0. 90 2 PG 2 0. 89 6 PG 3 0. 89 1 R R 1 0. 92 6 0. 88 3 0. 80 7 0. 81 2 0. 86 2 0. 79 4 0. 89 8 R 2 0. 90 4 R 3 0. 86 4 TA TA 1 0. 93 4 0. 91 6 0. 85 3 0. 87 5 0. 83 4 0. 87 2 0. 80 8 0. 92 4 TA 2 0. 91 8 TA 3 0. 91 9 A F A F1 0. 89 3 0. 88 9 0. 81 8 0. 71 3 0. 75 4 0. 70 8 0. 74 8 0. 67 9 0. 90 5 A F2 0. 89 8 A F3 0. 92 2 PF PF 1 0. 92 8 0. 89 9 0. 82 8 0. 64 7 0. 70 3 0. 64 2 0. 73 3 0. 64 0 0. 88 3 0. 91 0 PF 2 0. 92 1 PF 3 0. 88 0 TC TC 1 0. 91 6 0. 86 7 0. 78 9 0. 85 7 0. 87 5 0. 83 5 0. 85 7 0. 85 5 0. 84 4 0. 82 3 0. 90 4 TC 2 0. 86 9 TC 3 0. 88 0 U C U C 1 0. 89 7 0. 88 2 0. 80 7 0. 80 3 0. 82 1 0. 77 0 0. 82 2 0. 79 2 0. 79 6 0. 78 3 0. 88 8 0. 89 9 U C 2 0. 91 5 U C 3 0. 88 4 A. Zarifis and X. Cheng\n129\ncompared to any of the other variables. Based on the analysis discussed above and present in Table 6.3, the measurement model is supported, and the analysis can move on to the structural model."
+    }, {
+      "heading" : "Structural Model",
+      "text" : "The structural model, also referred to as the inner model, evaluates the relationship between the latent variables, also known as constructs (Hair et al., 2021). As with the measurement model, several criteria must be met. The coefficient of determination R2 for the endogenous latent variable TC is 0.898, and for the second endogenous variable UC is 0.817. Both are above 0.67 and can be considered ‘substantial’ (Chin, 1998). The effect size (ƒ2) for the paths TG-TC (0.020), EG-TC (0.035), R-TC (0.025), TA-TC (0.107), AF-TC (0.048), PF-TC (0.111) are weak but significant. TC-UC (4.460) is strong. The effect size of the path PG-TC (0.000) can be considered insignificant. Effect sizes are typically interpreted in the following way: insignificant under 0.02, weak between 0.02 and 0.15, moderate between 0.15 to 0.35 and strong above 0.35 (Chin, 1998). PLS-SEM is not focused on model fit, and there is a debate as to whether the estimations of fit it produces should be reported (Hair et al., 2021). However, as an additional indication, with the reservations noted, the Standardized Root-Mean Residual (SRMR) for a saturated model is 0.051. Values below 0.08 indicate a good model fit (Hu & Bentler, 1999). The structural model was further explored with the bootstrapping method set to 5000 samples, and the results were similar, as illustrated in Table 6.4. We see that there is support for all the relationships apart from PG-TC.\nThere are three typical approaches to SEM analysis. The first is to test a model and the second is to compare alternative models. The third approach, which is followed here, is to generate a model. This is achieved by first proposing an initial model and then making adjustments to improve the statistical support for it. Given the insufficient support for the relationship PG-TC, this variable was removed, and the PLS algorithm and Bootstrapping tests were repeated. The final supported model with one variable omitted is still logical and supported by the literature.\n6 The Six Ways to Build Trust and Reduce Privacy Concern…\n130\nThe effect size (ƒ2) for the paths TG-TC (0.026), EG-TC (0.036), R-TC (0.026), TA-TC (0.126), AF-TC (0.050), PF-TC (0.111) are weak but significant. TC-UC remains strong as it is not affected by removing the variable PG. Therefore, removing the variable PG has increased the effect sizes of the remaining variables and thus improved the model. The model fit did not change significantly as the SRMR for a saturated model remains at 0.051. The SRMR for the estimated model had an insignificant change from 0.053 to 0.052. As mentioned earlier, values below 0.08 indicate a good model fit (Hu & Bentler, 1999). The structural model was further explored with the bootstrapping method set to 5000 samples, and the results were similar as illustrated in Table 6.5."
+    }, {
+      "heading" : "6.6 Findings",
+      "text" : "Several countries have plans to implement CBDCs, while many others are exploring this option (Xu, 2022; Banxico, 2021). The starting point of this research was reviewing the literature and identifying both the potential benefits of CBDCs and the importance of consumer trust in its adoption. An initial model recommended seven ways trust in a CBDC is built. This was evaluated and further developed using Structural Equation Modelling (SEM). The fourth hypothesis, which is the only one not supported, states: ‘Personal data handled when operating a CBDC by a government, that already holds personal information of the user, will increase trust in the CBDC’. It appears that users of a CBDC do not see it as an advantage that their personal information is shared with an organization\nA. Zarifis and X. Cheng\n131\nthat already has extensive information on them. The final model, with six ways trust in a CBDC is built, is supported by the data and literature and is illustrated in Fig. 6.2."
+    }, {
+      "heading" : "Theoretical Contribution",
+      "text" : "This research makes three primary theoretical contributions: (1) The first contribution is the model of trust in CBDCs that identifies six ways to build trust in a CBDC. (2) The second contribution is that the model supports the importance of consumer trust in the adoption of a CBDC. (3) Thirdly, this research links the literature on trust to CBDCs and highlights the benefits of exiting literature to understanding CBDCs and overcoming their challenges to adoption.\nFrom the six approaches to building trust, the first three apply to trust in the institutions involved, while the final three apply to trust in the technology used. The first three that apply to trust in the institutions involved are as follows: (1) Trust in government and central bank, (2) expressed guarantees for the user, and (3) the positive reputation of existing CBDCs active elsewhere. The final three that apply to trust in the technology used are thus: (4) The automation and reduced human involvement achieved by a CBDC technology, (5) the trust-building functionality of a CBDC wallet app, and (6) privacy features of the CBDC wallet app and back-end processes such as anonymity.\nThese six methods to build trust in CBDCs now extend the literature they were based on to CBDCs. The literature on institutional trust (Pavlou & Gefen, 2004), the benefits of guarantees to building trust\n6 The Six Ways to Build Trust and Reduce Privacy Concern…\n132\n(Martínez-López et al., 2020), and the role of reputation in building trust (Dupont & Karpoff, 2020) are extended to CBDCs. Similarly, the literature of the three more technology-focused variables is extended to CBDCs. These are automation and AI (Ahn & Chen, 2022), trustbuilding functionality in technology (Chang et al., 2013), and privacy features in a technology (Dinev et al., 2013)."
+    }, {
+      "heading" : "Practical Contribution",
+      "text" : "This research has practical implications for the various stakeholders involved in implementing and operating a CBDC but also the stakeholders in the ecosystem using a CBDC. The stakeholders involved in delivering and operating CBDCs such as governments, central banks, regulators, retail banks, and technology providers can apply the six trust- building approaches so that the consumer trusts a CBDC sufficiently and adopts them. The many organizations that are not directly involved in operating the CBDC, but are affected by it, such as retailers can also build trust\nA. Zarifis and X. Cheng\n133\nwith some of the six methods. The six methods may not apply to all the stakeholders, and a stakeholder may not be able to implement all six, but they can identify those that do apply."
+    }, {
+      "heading" : "6.7 Conclusion, Limitations, and Future Research",
+      "text" : "CBDCs are an important part of the new Fintech solutions disrupting finance, but also more generally society. This research evaluated a model on how trust in a CBDC is built. Data was collected by survey and analysed with PLS-SEM.  This research verified the importance of trust in CBDC adoption and identified six ways to build trust in CBDCs. These are (1) trust in government and central bank issuing the CBDC, (2) expressed guarantees for the user, (3) the positive reputation of existing CBDCs active elsewhere, (4) the automation and reduced human involvement achieved by a CBDC technology, (5) the trust-building functionality of a CBDC wallet app, and (6) privacy features of the CBDC wallet app and back-end processes such as anonymity. The first three trust-building methods relate to trust in the institutions involved, while the final three relate to trust in the technology used. Trust in the technology is like the walls of a new building, and institutional trust is like the buttresses that support it.\nThis research has practical implications for the various stakeholders involved in implementing and operating a CBDC but also the stakeholders in the ecosystem using CBDCs. The stakeholders involved in delivering and operating CBDCs such as governments, central banks, regulators, retail banks, and technology providers can apply the six trust-building approaches so that the consumer trusts a CBDC and adopts it.\nThe limitations of this research open new paths for future research. The use of CBDCs is still at a nascent stage. Firstly, while the few existing and many planned implementations give us a sufficiently stable foundation to build on, the findings should be taken in the context of a technology in the early stages of adoption. Secondly, the sample was from one country, Germany, so the findings can be tested in other countries and\n6 The Six Ways to Build Trust and Reduce Privacy Concern…\n134\nregions of the world. Thirdly, in the future, new measures can be taken to build trust in CBDCs, so this space should be reviewed regularly. Finally, this research recommends that Fintech is not only treated as an interdisciplinary topic, as it rightly is until now, but also as a distinct field of research that needs specialized research that captures its idiosyncrasies. The full impact of Fintech may not be captured just by repurposing theory from adjacent fields like finance and information systems."
+    } ],
+    "references" : [ {
+      "title" : "Digital Transformation Toward AI-Augmented",
+      "author" : [ "M.J. Nationalbank. Ahn", "Y.C. Chen" ],
+      "venue" : null,
+      "citeRegEx" : "Ahn and Chen,? \\Q2022\\E",
+      "shortCiteRegEx" : "Ahn and Chen",
+      "year" : 2022
+    }, {
+      "title" : "Central Bank Digital Currencies",
+      "author" : [ "O. Ardic" ],
+      "venue" : null,
+      "citeRegEx" : "Bossone and Ardic,? \\Q2021\\E",
+      "shortCiteRegEx" : "Bossone and Ardic",
+      "year" : 2021
+    }, {
+      "title" : "The partial least squares approach to structural equation modelling",
+      "author" : [ "W.W. Chin" ],
+      "venue" : "In Modern Methods for Business Research (Issue JANUARY",
+      "citeRegEx" : "Chin,? \\Q1998\\E",
+      "shortCiteRegEx" : "Chin",
+      "year" : 1998
+    }, {
+      "title" : "Information Privacy and Correlates: An Empirical Attempt to Bridge and Distinguish Privacy-Related Concepts",
+      "author" : [ "T. Dinev", "X. Heng", "J.H. Smith", "P. Hart" ],
+      "venue" : "European Journal of Information Systems,",
+      "citeRegEx" : "Dinev et al\\.,? \\Q2013\\E",
+      "shortCiteRegEx" : "Dinev et al\\.",
+      "year" : 2013
+    }, {
+      "title" : "The Trust Triangle: Laws, Reputation, and Culture in Empirical Finance Research",
+      "author" : [ "Q. Dupont", "J.M. Karpoff" ],
+      "venue" : "Journal of Business Ethics,",
+      "citeRegEx" : "Dupont and Karpoff,? \\Q2020\\E",
+      "shortCiteRegEx" : "Dupont and Karpoff",
+      "year" : 2020
+    }, {
+      "title" : "When Reputation Engenders Trust: An Empirical Investigation in Business-to-Consumer Electronic Commerce",
+      "author" : [ "S. Einwiller" ],
+      "venue" : "Electronic Markets,",
+      "citeRegEx" : "Einwiller,? \\Q2003\\E",
+      "shortCiteRegEx" : "Einwiller",
+      "year" : 2003
+    }, {
+      "title" : "From One Disruption to the Next: How to Navigate Chaos? Journal of Retailing. https://doi.org/10.1016/j.jretai.2022.09.001",
+      "author" : [ "K. Gielens" ],
+      "venue" : null,
+      "citeRegEx" : "Gielens,? \\Q2022\\E",
+      "shortCiteRegEx" : "Gielens",
+      "year" : 2022
+    }, {
+      "title" : "Do We Still Need Financial Intermediation? The Case of Decentralized Finance – DeFi",
+      "author" : [ "L. Grassi", "D. Lanfranchi", "A. Faes", "F.M. Renga" ],
+      "venue" : "Qualitative Research in Accounting and Management,",
+      "citeRegEx" : "Grassi et al\\.,? \\Q2022\\E",
+      "shortCiteRegEx" : "Grassi et al\\.",
+      "year" : 2022
+    }, {
+      "title" : "Validating a Scale for Citizen Trust in Government Organizations",
+      "author" : [ "S. Grimmelikhuijsen", "E. Knies" ],
+      "venue" : "International Review of Administrative Sciences,",
+      "citeRegEx" : "Grimmelikhuijsen and Knies,? \\Q2017\\E",
+      "shortCiteRegEx" : "Grimmelikhuijsen and Knies",
+      "year" : 2017
+    }, {
+      "title" : "Private or Not? The Categorical Differences in Mobile Users’ Privacy Decision-Making",
+      "author" : [ "J. Gu", "J. Tian", "X. Yunjie Calvin" ],
+      "venue" : "Electronic Commerce Research and Applications,",
+      "citeRegEx" : "Gu et al\\.,? \\Q2022\\E",
+      "shortCiteRegEx" : "Gu et al\\.",
+      "year" : 2022
+    }, {
+      "title" : "A Primer on Partial Least Squares Structural Equation Modeling (PLS-SEM) (3rd ed.)",
+      "author" : [ "J. Hair", "T. Hult", "C. Ringle", "M. Sarstedt" ],
+      "venue" : null,
+      "citeRegEx" : "Hair et al\\.,? \\Q2021\\E",
+      "shortCiteRegEx" : "Hair et al\\.",
+      "year" : 2021
+    }, {
+      "title" : "Cutoff Criteria for Fit Indexes in Covariance Structure Analysis: Conventional Criteria Versus New Alternatives",
+      "author" : [ "L.T. Hu", "P.M. Bentler" ],
+      "venue" : "Structural Equation Modeling,",
+      "citeRegEx" : "Hu and Bentler,? \\Q1999\\E",
+      "shortCiteRegEx" : "Hu and Bentler",
+      "year" : 1999
+    }, {
+      "title" : "Gaining Momentum – Results of the 2021 BIS Survey on Central Bank Digital Currencies",
+      "author" : [ "A. Kosse", "I. Mattei" ],
+      "venue" : "BIS Papers",
+      "citeRegEx" : "Kosse and Mattei,? \\Q2022\\E",
+      "shortCiteRegEx" : "Kosse and Mattei",
+      "year" : 2022
+    }, {
+      "title" : "Technology, Humanness, and Trust: Rethinking Trust in Technology",
+      "author" : [ "N. Lankton", "H. McKnight", "J. Tripp" ],
+      "venue" : "Journal of the Association for Information Technology,",
+      "citeRegEx" : "Lankton et al\\.,? \\Q2015\\E",
+      "shortCiteRegEx" : "Lankton et al\\.",
+      "year" : 2015
+    }, {
+      "title" : "A Global Perspective on Central Bank Digital Currency",
+      "author" : [ "D.K. Lee", "L.Y. Chuen", "Y. Wang" ],
+      "venue" : "China Economic Journal,",
+      "citeRegEx" : "Lee et al\\.,? \\Q2021\\E",
+      "shortCiteRegEx" : "Lee et al\\.",
+      "year" : 2021
+    }, {
+      "title" : "Cultural Values and the Adoption of Central Bank Digital Currency",
+      "author" : [ "H.N. Luu", "D. Do", "T. Pham", "V.X. Ho", "Q.A. Dinh" ],
+      "venue" : "Applied Economics Letters. https://doi.org/10.1080/13504851.2022.2089342. Routledge",
+      "citeRegEx" : "Luu et al\\.,? \\Q2022\\E",
+      "shortCiteRegEx" : "Luu et al\\.",
+      "year" : 2022
+    }, {
+      "title" : "Do Safe Buy Buttons and Integrated Path-to-Purchase on Social Platforms Improve Users’ Shopping-Related Responses",
+      "author" : [ "F.J. Martínez-López", "Y. Li", "H. Liu", "C. Feng" ],
+      "venue" : "Electronic Commerce Research and Applications,",
+      "citeRegEx" : "Martínez.López et al\\.,? \\Q2020\\E",
+      "shortCiteRegEx" : "Martínez.López et al\\.",
+      "year" : 2020
+    }, {
+      "title" : "Trust as an Organizing Principle",
+      "author" : [ "B. McEvily", "V. Perrone", "A. Zaheer" ],
+      "venue" : "Organizational Science,",
+      "citeRegEx" : "McEvily et al\\.,? \\Q2003\\E",
+      "shortCiteRegEx" : "McEvily et al\\.",
+      "year" : 2003
+    }, {
+      "title" : "What Trust Means in E-Commerce Customer Relationships: An Interdisciplinary Conceptual Typology",
+      "author" : [ "H. McKnight", "N.L. Chervany" ],
+      "venue" : "International Journal of Electronic Commerce,",
+      "citeRegEx" : "McKnight and Chervany,? \\Q2002\\E",
+      "shortCiteRegEx" : "McKnight and Chervany",
+      "year" : 2002
+    }, {
+      "title" : "Falsifying and Withholding: Exploring Individuals’ Contextual Privacy-Related Decision-Making",
+      "author" : [ "C.L. Miltgen", "H. Jeff Smith" ],
+      "venue" : "Information and Management,",
+      "citeRegEx" : "Miltgen and Smith,? \\Q2019\\E",
+      "shortCiteRegEx" : "Miltgen and Smith",
+      "year" : 2019
+    }, {
+      "title" : "A Digital Euro for Everyone: Can the European System of Central Banks Introduce General Purpose CBDC as Part of Its Economic Mandate? Journal of Banking Regulation",
+      "author" : [ "A.M. Mooij" ],
+      "venue" : null,
+      "citeRegEx" : "Mooij,? \\Q2022\\E",
+      "shortCiteRegEx" : "Mooij",
+      "year" : 2022
+    }, {
+      "title" : "Systemic Stablecoin and the Defensive Case for Central Bank Digital Currency: A Critique of the Bank of England’s Framing",
+      "author" : [ "J. Morgan" ],
+      "venue" : "Research in International Business and Finance, 62(December). https://doi",
+      "citeRegEx" : "Morgan,? \\Q2022\\E",
+      "shortCiteRegEx" : "Morgan",
+      "year" : 2022
+    }, {
+      "title" : "Institution-Based Trust in Interorganizational Exchange Relationships: The Role of Online B2B Marketplaces on Trust Formation",
+      "author" : [ "P.A. Pavlou" ],
+      "venue" : "The Journal of Strategic Information Systems,",
+      "citeRegEx" : "Pavlou,? \\Q2002\\E",
+      "shortCiteRegEx" : "Pavlou",
+      "year" : 2002
+    }, {
+      "title" : "Building Effective Online Marketplaces with Institution-Based Trust",
+      "author" : [ "P.A. Pavlou", "D. Gefen" ],
+      "venue" : "Information Systems Research,",
+      "citeRegEx" : "Pavlou and Gefen,? \\Q2004\\E",
+      "shortCiteRegEx" : "Pavlou and Gefen",
+      "year" : 2004
+    }, {
+      "title" : "Privacy and Transparency in CBDCs: A Regulation-by-Design AML/CFT Scheme",
+      "author" : [ "N. Pocher", "A. Veneris" ],
+      "venue" : "IEEE Transactions on Network and Service Management,",
+      "citeRegEx" : "Pocher and Veneris,? \\Q2022\\E",
+      "shortCiteRegEx" : "Pocher and Veneris",
+      "year" : 2022
+    }, {
+      "title" : "A Usability Study of Five Two-Factor Authentication Methods",
+      "author" : [ "K. Reese", "T. Smith", "J. Dutson", "J. Armknecht", "J. Cameron", "K. Seamons" ],
+      "venue" : "In Proceedings of the Fifteenth Symposium on Usable Privacy and Security (pp. 1–15)",
+      "citeRegEx" : "Reese et al\\.,? \\Q2019\\E",
+      "shortCiteRegEx" : "Reese et al\\.",
+      "year" : 2019
+    }, {
+      "title" : "A Year of ‘Permacrisis",
+      "author" : [ "D. Shariatmadari" ],
+      "venue" : null,
+      "citeRegEx" : "Shariatmadari,? \\Q2022\\E",
+      "shortCiteRegEx" : "Shariatmadari",
+      "year" : 2022
+    }, {
+      "title" : "Cashless Payment and Economic Growth",
+      "author" : [ "H.H. permacrisis/ Tee", "H.B. Ong" ],
+      "venue" : "Financial Innovation,",
+      "citeRegEx" : "Tee and Ong,? \\Q2016\\E",
+      "shortCiteRegEx" : "Tee and Ong",
+      "year" : 2016
+    }, {
+      "title" : "Investigating Privacy Concerns and Trust in the Digital Euro in Germany",
+      "author" : [ "F. Tronnier", "D. Harborth", "P. Hamm" ],
+      "venue" : "Electronic Commerce Research and Applications,",
+      "citeRegEx" : "Tronnier et al\\.,? \\Q2022\\E",
+      "shortCiteRegEx" : "Tronnier et al\\.",
+      "year" : 2022
+    }, {
+      "title" : "User Acceptance of Information Technology: Toward a Unified View",
+      "author" : [ "V. Venkatesh", "M.G. Morris", "G.B. Davis", "F.D. Davis" ],
+      "venue" : "MIS Quarterly,",
+      "citeRegEx" : "Venkatesh et al\\.,? \\Q2003\\E",
+      "shortCiteRegEx" : "Venkatesh et al\\.",
+      "year" : 2003
+    }, {
+      "title" : "FAQ’s on the Cost of Living Payment. https:// www2.deloitte.com/nz/en/pages/tax- alerts/articles/cost- of- livingpayment- FAQs.html",
+      "author" : [ "R. Walker", "A. Sexton" ],
+      "venue" : null,
+      "citeRegEx" : "Walker and Sexton,? \\Q2022\\E",
+      "shortCiteRegEx" : "Walker and Sexton",
+      "year" : 2022
+    }, {
+      "title" : "Developments and Implications of Central Bank Digital Currency: The Case of China e-CNY",
+      "author" : [ "J. Xu" ],
+      "venue" : "Asian Economic Policy Review. https://doi",
+      "citeRegEx" : "Xu,? \\Q2022\\E",
+      "shortCiteRegEx" : "Xu",
+      "year" : 2022
+    }, {
+      "title" : "A Chronological Review of Empirical Research on Personal Information Privacy Concerns: An Analysis of Contexts and Research Constructs",
+      "author" : [ "H. Yun", "G. Lee", "D.J. Kim" ],
+      "venue" : "Information and Management,",
+      "citeRegEx" : "Yun et al\\.,? \\Q2019\\E",
+      "shortCiteRegEx" : "Yun et al\\.",
+      "year" : 2019
+    }, {
+      "title" : "Production of Trust: Institutional Sources of Economic Structure",
+      "author" : [ "L.G. Zucker" ],
+      "venue" : "Research in Organizational Behavior,",
+      "citeRegEx" : "Zucker,? \\Q1986\\E",
+      "shortCiteRegEx" : "Zucker",
+      "year" : 1986
+    } ],
+    "referenceMentions" : [ {
+      "referenceID" : 31,
+      "context" : "The cautious, slow progress of some central banks through many pilot implementations is probably warranted (Xu, 2022).",
+      "startOffset" : 107,
+      "endOffset" : 117
+    }, {
+      "referenceID" : 6,
+      "context" : "Many consumers lives seem to be going from one disruption to the other recently (Gielens, 2022), with the word ‘permacrisis’ being selected as the word of the year by Collins Dictionary (Shariatmadari, 2022).",
+      "startOffset" : 80,
+      "endOffset" : 95
+    }, {
+      "referenceID" : 26,
+      "context" : "Many consumers lives seem to be going from one disruption to the other recently (Gielens, 2022), with the word ‘permacrisis’ being selected as the word of the year by Collins Dictionary (Shariatmadari, 2022).",
+      "startOffset" : 186,
+      "endOffset" : 207
+    }, {
+      "referenceID" : 13,
+      "context" : "Consumer trust is an important factor in technology adoption (Lankton et al., 2015).",
+      "startOffset" : 61,
+      "endOffset" : 83
+    }, {
+      "referenceID" : 31,
+      "context" : "Firstly because of its popularity within early movers like the Chinese CBDC, formally known as the electronic Chinese Yuan or the e-CNY (Xu, 2022).",
+      "startOffset" : 136,
+      "endOffset" : 146
+    }, {
+      "referenceID" : 14,
+      "context" : "The confluence of cryptoasset popularity, DeFi popularity, the digital transformation in many sectors of the economy and several other factors have convinced many countries that the right time is now (Luu et  al., 2022; Lee et al., 2021).",
+      "startOffset" : 200,
+      "endOffset" : 237
+    }, {
+      "referenceID" : 31,
+      "context" : "The Chinese e-CNY operates in this way (Xu, 2022).",
+      "startOffset" : 39,
+      "endOffset" : 49
+    }, {
+      "referenceID" : 28,
+      "context" : "For the digital Euro, early signs suggest that image and credibility influence trust (Tronnier et al., 2022).",
+      "startOffset" : 85,
+      "endOffset" : 108
+    }, {
+      "referenceID" : 13,
+      "context" : "Previous research has shown that trust in technology is different to trust in people (Lankton et al., 2015).",
+      "startOffset" : 85,
+      "endOffset" : 107
+    }, {
+      "referenceID" : 33,
+      "context" : "The term institutional trust has been used since the 1980s to describe the ability of institutions to build trust (Zucker, 1986).",
+      "startOffset" : 114,
+      "endOffset" : 128
+    }, {
+      "referenceID" : 17,
+      "context" : "This trust transference is covered by literature on network trust (McEvily et al., 2003), but it is not the only way institutions build trust.",
+      "startOffset" : 66,
+      "endOffset" : 88
+    }, {
+      "referenceID" : 13,
+      "context" : "Trust in a system can be influenced by functionality, helpfulness, and reliability (Lankton et al., 2015).",
+      "startOffset" : 83,
+      "endOffset" : 105
+    }, {
+      "referenceID" : 13,
+      "context" : "Two of the most popular distinctions are (1) into people-centric trust and technology-centric trust (Lankton et al., 2015) and (2) institutional trust and technology-focused trust (Pavlou & Gefen, 2004).",
+      "startOffset" : 100,
+      "endOffset" : 122
+    }, {
+      "referenceID" : 21,
+      "context" : "For example, an EU and UK implementation involves different responsibilities for the respective governments and central banks, but in both cases both institutions are involved (Morgan, 2022; Mooij, 2022).",
+      "startOffset" : 176,
+      "endOffset" : 203
+    }, {
+      "referenceID" : 20,
+      "context" : "For example, an EU and UK implementation involves different responsibilities for the respective governments and central banks, but in both cases both institutions are involved (Morgan, 2022; Mooij, 2022).",
+      "startOffset" : 176,
+      "endOffset" : 203
+    }, {
+      "referenceID" : 16,
+      "context" : "Guarantees have a history of being used to reassure users of technology or consumers of financial services, and they are often beneficial (Martínez-López et al., 2020).",
+      "startOffset" : 138,
+      "endOffset" : 167
+    }, {
+      "referenceID" : 32,
+      "context" : "Personal information privacy concern is caused when consumers must share sensitive personal information to receive a product or service (Yun et al., 2019).",
+      "startOffset" : 136,
+      "endOffset" : 154
+    }, {
+      "referenceID" : 3,
+      "context" : "New privacy concerns can emerge each additional time this personal information must be shared with a new organization (Dinev et al., 2013).",
+      "startOffset" : 118,
+      "endOffset" : 138
+    }, {
+      "referenceID" : 5,
+      "context" : "Reputation has been proven to influence trust in a variety of contexts involving technology (Einwiller, 2003), including trust in financial services (Dupont & Karpoff, 2020).",
+      "startOffset" : 92,
+      "endOffset" : 109
+    }, {
+      "referenceID" : 25,
+      "context" : "These can include a well-designed interphase and two-factor authentication to give the user a strong sense that they are in control of their money (Reese et al., 2019).",
+      "startOffset" : 147,
+      "endOffset" : 167
+    }, {
+      "referenceID" : 9,
+      "context" : "Despite the large volume of data provided by a typical consumer so that they can receive the products and services they want, this does not happen without some privacy concerns (Gu et al., 2022).",
+      "startOffset" : 177,
+      "endOffset" : 194
+    }, {
+      "referenceID" : 3,
+      "context" : "Additional privacy features of the CBDC wallet app and back-end processes, such as anonymity, can reduce personal information privacy concern (Dinev et al., 2013).",
+      "startOffset" : 142,
+      "endOffset" : 162
+    }, {
+      "referenceID" : 13,
+      "context" : "The originality and contribution of this research lies primarily in the previous seven hypotheses, but the final hypothesis is necessary to confirm that trust plays a role in this context as it does in many other similar contexts (Lankton et al., 2015; McKnight & Chervany, 2002).",
+      "startOffset" : 230,
+      "endOffset" : 279
+    }, {
+      "referenceID" : 10,
+      "context" : "Based on the maximum number of arrows pointing to a latent variable being seven, the minimum sample size is 228, for a statistical power of 80% (Hair et al., 2021).",
+      "startOffset" : 144,
+      "endOffset" : 163
+    }, {
+      "referenceID" : 10,
+      "context" : "Using a higher number than the minimum increases the precision of the estimations (Hair et al., 2021).",
+      "startOffset" : 82,
+      "endOffset" : 101
+    }, {
+      "referenceID" : 10,
+      "context" : "Before the relationships between the latent variables can be tested, the relationship between each latent variable and its respective measured variables must be tested to see if it meets the necessary criteria (Hair et al., 2021).",
+      "startOffset" : 210,
+      "endOffset" : 229
+    }, {
+      "referenceID" : 10,
+      "context" : "The structural model, also referred to as the inner model, evaluates the relationship between the latent variables, also known as constructs (Hair et al., 2021).",
+      "startOffset" : 141,
+      "endOffset" : 160
+    }, {
+      "referenceID" : 2,
+      "context" : "67 and can be considered ‘substantial’ (Chin, 1998).",
+      "startOffset" : 39,
+      "endOffset" : 51
+    }, {
+      "referenceID" : 10,
+      "context" : "PLS-SEM is not focused on model fit, and there is a debate as to whether the estimations of fit it produces should be reported (Hair et al., 2021).",
+      "startOffset" : 127,
+      "endOffset" : 146
+    }, {
+      "referenceID" : 31,
+      "context" : "Several countries have plans to implement CBDCs, while many others are exploring this option (Xu, 2022; Banxico, 2021).",
+      "startOffset" : 93,
+      "endOffset" : 118
+    }, {
+      "referenceID" : 16,
+      "context" : "(Martínez-López et al., 2020), and the role of reputation in building trust (Dupont & Karpoff, 2020) are extended to CBDCs.",
+      "startOffset" : 0,
+      "endOffset" : 29
+    }, {
+      "referenceID" : 3,
+      "context" : ", 2013), and privacy features in a technology (Dinev et al., 2013).",
+      "startOffset" : 46,
+      "endOffset" : 66
+    } ],
+    "year" : 2023,
+    "abstractText" : "Central Bank Digital Currencies (CBDCs) have been implemented by only a handful of countries, but they are being explored by many more (Kosse & Mattei, 2022). CBDCs are digital currencies issued and backed by a central bank. Consumer trust can encourage or discoura ge the adoption of this currency, which is also a payment system and a technology. This research attempts to understand consumer trust in CBDCs so that the development and adoption stages are more effective and satisfying for all the stakeholders.",
+    "creator" : null
+  }
+}

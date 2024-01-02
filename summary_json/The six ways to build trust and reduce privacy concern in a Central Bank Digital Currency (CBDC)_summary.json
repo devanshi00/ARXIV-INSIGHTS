@@ -1,0 +1,72 @@
+{
+    "name": "The six ways to build trust and reduce privacy concern in a Central Bank Digital Currency (CBDC)_summary.json",
+    "metadata": {
+        "title": "The Six Ways to Build Trust and Reduce Privacy Concern in a Central Bank Digital Currency (CBDC)",
+        "sections": [
+            {
+                "heading": "The Six Ways to\u00c2\u00a0Build Trust and\u00c2\u00a0Reduce Privacy Concern in\u00c2\u00a0a\u00c2\u00a0Central Bank Digital Currency (CBDC)",
+                "text": "Alex\u00c2\u00a0Zarifis and\u00c2\u00a0Xusen\u00c2\u00a0Cheng are the co-authors of the book, \"The Secret Life of"
+            },
+            {
+                "heading": "6.1 Introduction",
+                "text": "Central Bank Digital Currencies (CBDCs) have been implemented by only a handful of countries. CBDCs are digital currencies issued and backed by a central bank. Consumer trust can encourage or discoura ge the adoption of this currency, which is also a payment system and a technology. Governments want a currency and payment solution that is more efficient and intelligent. Consumers have shown an interest in the functionality provided by cryptocurrencies. It is more effective to design something appealing to the consumer than push a flawed solution onto them. The cautious, slow progress of some central banks through many pilot implementations is probably warranted. A failed implementation of a CBDC would have far-reaching consequences. This cautious approach, however, must not take longer than necessary, and the optimum solutions, including trust, must be reached. Research into CBDCs recognizes that more needs to be done to understand this phenomenon. Consumer trust is an important factor in technology adoption. For this research we are considering the one-tier CBDC solution. This research found support for a model with six factors influencing trust in a CBDC. It found that trust in the CBDC did indeed encourage its adoption. The six factors that influence trust are the following: Trust in the government and the central bank issuing aCBDC. ructural Equation Modelling (SEM) is outlined. After that comes the analysis and results, the discussion of the findings, and finally the conclusion, which includes suggestions for future research."
+            },
+            {
+                "heading": "6.2 Theoretical Foundation",
+                "text": "This review first explores the various models and implementations of CBDCs. It then moves on to trust in the related areas of currencies, payments, and technology. While the literature of trust inCBDCs does not sufficiently cover this topic, the extensive literature ofTrust in the constituent parts of a CBDC gives this research a sufficient theoretical foundation to build on."
+            },
+            {
+                "heading": "Central Bank Digital Currencies (CBDCs)",
+                "text": "CBDCs are different to other cryptocurrencies like Bitcoin as they are issued by a country\u00e2\u20ac\u2122s central bank and cannot be mined. The use of cash is declining over time in most countries, and the idea to offer a purely digital currency and payment system is not new. The operations of a CBDC can either be over one or two tiers. If it operates over one tier, a central bank provides an electronic wallet to the individual to use it. The Chinese e-CNY operates in this way. A CBDC that operates with two tiers essentially replicates the current design where a currency is issued by the central bank but private banks hold individuals' savings. CBDCs may introduce some risks that must be analysed and understood before an implementation. Inevitably, a greater reliance on technology makes cybersecurity risks more dangerous. A problematic implementation may lead to low adoption or reduce trust and confidence in CBDCs. with current currencies. Unlike current currencies the functionality of the digital wallet may also play a role and become a relative advantage."
+            },
+            {
+                "heading": "Trust in\u00c2\u00a0Currencies, Payments, and\u00c2\u00a0Technology",
+                "text": "Early signs suggest that image and credibility influence trust (Tronnier et\u00c2\u00a0al., 2022) CBDCs once again change this relationship leaving any physical proof out of the equation. The new relationship between the trustor (citizen) and trustee (government and central bank) replaces previous physical assurances, with technology. Trust in the technology is important. Previous research has shown that trust in technology is different to trust in people. Institutional trust is defined as the consumer's perception that third-party organizations (not the one purchasing or making a sale) can effectively support the exchange. For CBDCs institutional trust will depend on the specific risks people and societies face. Trust in technology plays a role in the consumer trusting a CBDC because the reduced contact with humans, is replaced with an increased interaction with technology. Trust in a system can be influenced by functionality, helpfulness, and reliability."
+            },
+            {
+                "heading": "6.3 Research Model",
+                "text": "Trust has been separated into several different categories by previous research. In a similar way, this research puts forward a model that separates trust in CBDCs into (1) trust in institutions implementingCBDCs and (2)trust in a specific CBDC technology. The four hypotheses related to the influence of trust\u00c2\u00a0associated to the institutions involved in CB DCs are presented first. The eighth and final hypothesis tests whether trust positively influences the intention to use a CBDC."
+            },
+            {
+                "heading": "Trust Built by Institutions Implementing CBDCs",
+                "text": "If institutions directly involved in the implementation of a CBDC are trusted, this will increase trust in the CBDC. The exact role of a government and a central bank may not be the same in all cases. In most cases, there is close cooperation between the government and the central bank. A guarantee is a formal assurance in writing that something will happen. Guarantees have a history of being used to reassure users of technology or consumers of financial services. Specific guarantees offered to the user of a CBDC will increase trust in the CBDC. The government already holds personal information of the consumer, this might increase trust. Reputation has been proven to influence trust in a variety of contexts involving technology. CBDCs implemented in other countries will increase trust in the CBDC."
+            },
+            {
+                "heading": "Trust Built by the\u00c2\u00a0Specific CBDC",
+                "text": "The process of using a CBDC is digital and over the Internet, so the technology, including blockchain, handles the necessary processes. This automation reduces human involvement and corruption. As human involvement is reduced, so is the need to trust humans. Despite the large volume of data provided by a typical consumer, this does not happen without some privacy concerns. Additional privacy features of the CBDC wallet app and back-end processes, such as anonymity, can reduce personal information privacy concern. rify that consumer trust in a CBDC does, indeed, encourage the use of CBDCs. The originality and contribution of this research lies primarily in the previous seven hypotheses, but the final hypothesis is necessary to confirm that trust plays a role."
+            },
+            {
+                "heading": "Data Collection",
+                "text": "The data for the quantitative analysis was collected by online survey hosted on the SoSci Survey tool (www.soscisurvey.de) The survey items are based on measures validated in similar contexts and use a seven-point Likert-type scale. The survey was designed to take less than ten minutes to complete. a higher number than the minimum increases the precision of the estimations. Of the 429 surveys collected, 41 raised a red flag and did not pass the survey quality checks. The demographic analysis of the 388 valid surveys completed, presented in Table\u00c2\u00a06.2, show a good balance between genders, age groups, education levels, and incomes."
+            },
+            {
+                "heading": "Data Analysis Technique",
+                "text": "The quantitative method evaluated the model developed using Structural Equation Modelling (SEM) with the variance-based Partial Least Squares (PLS) approach. An initial model was tested and improved so that a model with strong empirical and theoretical support is generated. nship between the latent variables. Zarifis and X. Cheng are the authors of the book."
+            },
+            {
+                "heading": "Measurement Model",
+                "text": "The relationship between each latent variable and its respective measured variables must be tested to see if it meets the necessary criteria. The first thing to be evaluated are the measured variables\u00e2\u20ac\u2122 factor loadings. These are above the minimum required level of 0.7 with the lowest being 0.864. The Average Variance Expected (AVE) should be above 0.5, and this requirement is met by all of them as the lowest is 0.807. a stronger relationship with their\u00c2\u00a0 own latent variable.6 The Six Ways to Build Trust and Reduce Privacy Concern\u00e2\u20ac\u00a6128 Ta b le 6.3 R es u lt s o f th e m ea su re m en t m o d el a n al ys is V ar ia b le s. The measurement model is supported, and the analysis can move on to the structural model. Based on the analysis discussed above and present in Table\u00c2\u00a06.3, the model is considered to be valid."
+            },
+            {
+                "heading": "Structural Model",
+                "text": "The structural model, also referred to as the inner model, evaluates the relationship between the latent variables. As with the measurement model, several criteria must be met. PLS-SEM is not focused on model fit, and there is a debate as to whether estimations of fit it produces should be reported. There are three typical approaches to SEM analysis. The first is to test a model and the second is to compare alternative models. The third approach is to generate a model. This is achieved by first proposing an initial model and then making adjustments to improve the statistical support for it. The model fit did not change significantly as the SRMR for a saturated model remains at 0.051. The structural model was further explored with the bootstrapping method set to 5000 samples. The results were similar as illustrated in Table\u00c2\u00a06.5."
+            },
+            {
+                "heading": "6.6 Findings",
+                "text": "Several countries have plans to implement CBDCs, while many others are exploring this option (Xu, 2022; Banxico, 2021). The starting point of this research was reviewing the literature and identifying both the potential benefits of CB DCs and the importance of consumer trust. An initial model recommended seven ways trust in a CBDC is built. This was evaluated and further\u00c2\u00a0developed using Structural Equation Modelling."
+            },
+            {
+                "heading": "Theoretical Contribution",
+                "text": "The study identifies six ways to build trust in a CBDC. The first three that apply to trust in the institutions involved are as follows: Trust in government and central bank, expressed guarantees for the user, and the positive reputation of existing CBDCs active elsewhere. The final three apply toTrust in the technology used are thus: The automation and reduced human involvement achieved by aCBDC technology. The literature on institutional trust (Pavlou & Gefen, 2004), the benefits of guarantees to building trust (Mart\u00c3\u00adnez-L\u00c3\u00b3pez et\u00c2\u00a0al., 2020), and the role of reputation in building trust are extended to CBDCs. The literature of the three more technology-focused variables is also extended. These are automation and AI, trustbuilding functionality in technology, and privacy features in a technology."
+            },
+            {
+                "heading": "Practical Contribution",
+                "text": "This research has practical implications for the various stakeholders involved in implementing and operating a CBDC. The six methods may not apply to all stakeholders, and a stakeholder may not be able to implement all six, but they can identify those that do apply."
+            },
+            {
+                "heading": "6.7 Conclusion, Limitations, and Future Research",
+                "text": "CBDCs are an important part of the new Fintech solutions disrupting finance, but also more generally society. This research evaluated a model on how trust in a CBDC is built. The first three trust-building methods relate to trust in the institutions involved, while the final three relate totrust in the technology used. research has practical implications for the various stakeholders involved in implementing and operating a CBDC. The use of CBDCs is still at a nascent stage. The findings should be taken in the context of a technology in the early stages of adoption. Fintech needs specialized research that captures its idiosyncrasies. The full impact of Fintech may not be captured just by repurposing theory from adjacent fields."
+            }
+        ]
+    }
+}
