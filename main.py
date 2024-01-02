@@ -80,7 +80,7 @@ def set_bg_hack(main_bg):
     )
 
 # Set the PNG image as the background of the page
-set_bg_hack('/gjhekhebfebfkefej (5).png')
+set_bg_hack('./background.png')
 
 
 
@@ -101,7 +101,7 @@ def navigate_to_title_page():
 
 def home():
     # Display the Canva image at the top of the page
-    canva_image_path = "/arXiv (1).png"  # Replace with the actual file path of your Canva image
+    canva_image_path = "./heading.png"  # Replace with the actual file path of your Canva image
     canva_image = Image.open(canva_image_path)
     st.image(canva_image, use_column_width=True)
     # Center the date and make it bold using CSS
