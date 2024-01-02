@@ -274,7 +274,7 @@ def url_page():
                 st.error(f"Error: {str(e)}")
 # Second page - Display the selected title and its sections
 def title_page(title):
-    set_bg_hack('/gjhekhebfebfkefej (4).png')
+    set_bg_hack('./background.png')
     if st.button("Back to Home"):
         st.session_state.pop("selected_title")
 
